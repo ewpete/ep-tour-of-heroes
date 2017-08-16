@@ -1,0 +1,13 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+node_modules/
+src/**/*.js
+src/**/*.js.map
+
+
+# System Files
+.DS_Store
+Thumbs.db
